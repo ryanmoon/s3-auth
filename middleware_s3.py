@@ -18,7 +18,7 @@ from urlparse import urlparse
 from Foundation import CFPreferencesCopyAppValue
 # pylint: enable=E0611
 
-BUNDLE_ID = 'com.github.waderobson.s3-auth'
+BUNDLE_ID = 'com.github.ryanmoon.s3-auth'
 
 METHOD = 'GET'
 SERVICE = 's3'
